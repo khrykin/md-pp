@@ -3,6 +3,7 @@
 ## Usage
  - Instal package via `$ npm install -g md-pp`.
  - Create `variables.js` next to your markdown file:
+
   ```javascript
     module.exports = {
       height: "300 ft"
