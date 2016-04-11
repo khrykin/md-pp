@@ -1,0 +1,30 @@
+{
+  "name": "md-pp",
+  "version": "0.0.0",
+  "description": "Simple markdown preprocessor",
+  "main": "pp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khrykin/md-pp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khrykin/md-pp/issues"
+  },
+  "homepage": "https://github.com/khrykin/md-pp#readme",
+  "bin": {
+    "md-render": "index.js"
+  },
+  "keywords": [
+    "markdown",
+    "preprocessor",
+    "variables",
+  ],
+  "author": "Dmitry Khrykin",
+  "license": "ISC",
+  "dependencies": {
+    "escape-regexp": "0.0.1"
+  }
+}
