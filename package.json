@@ -1,6 +1,6 @@
 {
   "name": "md-pp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple markdown preprocessor",
   "main": "pp.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/khrykin/md-pp#readme",
   "bin": {
-    "md-pp": "node pp.js"
+    "md-pp": "pp.js"
   },
   "keywords": [
     "markdown",
