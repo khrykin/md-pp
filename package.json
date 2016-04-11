@@ -1,6 +1,6 @@
 {
   "name": "md-pp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple markdown preprocessor",
   "main": "pp.js",
   "scripts": {

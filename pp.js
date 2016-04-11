@@ -10,7 +10,7 @@ const escape      = require('escape-regexp');
 /* --------------------------------------------------------------- */
 
 const file        = process.argv[2];
-const dir         = path.resolve(__dirname, path.dirname(file));
+const dir         = path.resolve(path.dirname(file));
 const variablesJS = path.join(dir, 'variables.js');
 const outDir      = path.join(dir, 'out');
 
