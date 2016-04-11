@@ -15,12 +15,12 @@
   },
   "homepage": "https://github.com/khrykin/md-pp#readme",
   "bin": {
-    "md-render": "index.js"
+    "md-pp": "pp.js"
   },
   "keywords": [
     "markdown",
     "preprocessor",
-    "variables",
+    "variables"
   ],
   "author": "Dmitry Khrykin",
   "license": "ISC",
