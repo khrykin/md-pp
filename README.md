@@ -1,4 +1,4 @@
-# Simple markdown preprocessor
+# Simple plain text preprocessor
 
 ## Usage
  - Instal package via `$ npm install -g md-pp`.
